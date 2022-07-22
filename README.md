@@ -1,6 +1,10 @@
 # co3094dfd92493c9bcc978bec
 
-## About Scrimba
+## Personal Site
+
+This is the first website I created with the guidance of Scrimba. I am learning HTML and CSS and I am proud that I am already familiar with the usage of HTML tags. I am still on the journey of familiarizing the stylesheet. I hope I can hold on until the end and proceed to learning JavaScript.
+
+### About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
