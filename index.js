@@ -63,7 +63,7 @@ function favouriteFruit(theme) {
         setProp('--light', "#2e9afe")
         setProp('--dark', "#02197c")
     } else if (theme === "banana") {
-        setProp('--light', "#fbec5d")
+        setProp('--light', "#fdfd96")
         setProp('--dark', "#6b3e26")
     } else if (theme === "watermelon") {
         setProp('--light', "#75b855")
